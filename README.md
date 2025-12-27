@@ -5,7 +5,7 @@
 
 ---
 
-🎓 Computer Engineering (AI & Data Science) Student  
+🎓 AI & Data Science Student  
 🤖 Aspiring Data Scientist | 📊 Machine Learning & Analytics  
 🏆 Hackathon Participant  
 📍 India
@@ -17,7 +17,7 @@
 I am an aspiring **Data Scientist** with a strong interest in **data analysis, machine learning, and applied AI**.  
 I enjoy working with data to build **intelligent, insight-driven solutions**.
 
-- 🎓 B.E. in Computer Engineering (AI & Data Science)
+- 🎓 B.E. in AI & Data Science
 - 🏆 Hackathon participant with real-world problem exposure
 - 📊 Experience with **EDA, data preprocessing, and visualization**
 - 🤖 Actively learning **machine learning and model development**
