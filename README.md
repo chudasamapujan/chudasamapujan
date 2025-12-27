@@ -5,49 +5,90 @@
 
 ---
 
-## 💫 About Me
-
-Hi 👋, I'm **Pujan Chudasama**  
-🎓 Computer Engineering (AI & DS) Student | 📊 Aspiring Data Analyst | 🤖 Future Data Scientist  
-
----
-
-## 🧠 Skills & Technologies
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-
-### 📊 Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+🎓 Computer Engineering (AI & Data Science) Student  
+🤖 Aspiring Data Scientist | 📊 Machine Learning & Analytics  
+🏆 Hackathon Participant  
+📍 India
 
 ---
 
-## 🔥 Projects
-- 📊 Budget Wise – Expense & Financial Analysis  
-- 🎓 EduTrackHub – Student Analytics Platform  
-- 📈 InsightGenixAI – Data Visualization Tool  
+## 🚀 About Me
+
+I am an aspiring **Data Scientist** with a strong interest in **data analysis, machine learning, and applied AI**.  
+I enjoy working with data to build **intelligent, insight-driven solutions**.
+
+- 🎓 B.E. in Computer Engineering (AI & Data Science)
+- 🏆 Hackathon participant with real-world problem exposure
+- 📊 Experience with **EDA, data preprocessing, and visualization**
+- 🤖 Actively learning **machine learning and model development**
+- 🌱 Focused on consistency, fundamentals, and practical learning
 
 ---
 
-## 📊 Tableau Public Dashboards
-- 🔗 Expense Analysis Dashboard  
-- 🔗 Student Performance Analytics  
-- 🔗 India GDP Growth Dashboard  
+## 🧠 Core Data Scientist Skills
+
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Machine Learning Fundamentals  
+- Model Evaluation  
+- Data Visualization & Storytelling  
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=chudasamapujan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chudasamapujan&layout=compact&theme=tokyonight)
+## 🛠 Tools & Technologies
+
+### 💻 Programming & Querying
+- Python
+- SQL
+
+### 📚 Libraries & Frameworks
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- TensorFlow (Basics)
+
+### 🗄 Databases
+- MySQL
+- SQLite
+
+### 🔧 Tools
+- Jupyter Notebook
+- Google Colab
+- Git & GitHub
+- VS Code  
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gecr-ai230200143013/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chudasamapujan49@gmail.com)
-****
+## 📊 Tableau Public
+
+I use Tableau for **learning data visualization and dashboard design**.
+
+🔗 **Tableau Public Profile**  
+👉 https://public.tableau.com/app/profile/pujan.chudasama/vizzes
+
+*(Dashboards will be added as I continue building visualization projects)*
+
+---
+
+## 🧠 My Data Science Workflow
+
+1. Understand the problem  
+2. Collect and clean data  
+3. Perform EDA  
+4. Prepare data for modeling  
+5. Build and evaluate models  
+6. Communicate insights  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gecr-ai230200143013/
+- 📧 Email: **chudasamapujan49@gmail.com**
+
+---
+
+⭐ *Learning data science step by step and building intelligence with data.*
